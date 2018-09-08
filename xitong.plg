@@ -1,0 +1,36 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: xitong - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\Randy\AppData\Local\Temp\RSPF988.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/xitong.pdb" /debug /machine:I386 /out:"Debug/xitong.exe" /pdbtype:sept 
+".\Debug\chengji.obj"
+".\Debug\CustomToolBar.obj"
+".\Debug\db003dlg1.obj"
+".\Debug\huodong.obj"
+".\Debug\jiankang.obj"
+".\Debug\jiemian.obj"
+".\Debug\kecheng.obj"
+".\Debug\setbmp.obj"
+".\Debug\StdAfx.obj"
+".\Debug\xinxi.obj"
+".\Debug\xitong.obj"
+".\Debug\xitongDlg.obj"
+".\Debug\xitong.res"
+]
+Creating command line "link.exe @C:\Users\Randy\AppData\Local\Temp\RSPF988.tmp"
+<h3>Output Window</h3>
+Linking...
+
+
+
+<h3>Results</h3>
+xitong.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
